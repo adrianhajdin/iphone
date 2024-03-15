@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
-      <img src="https://github.com/adrianhajdin/iphone/assets/151519281/7096a00f-5d76-4a13-a0b9-63887ede2930" alt="Project Banner">
+    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
+      <img src="https://i.ibb.co/8N1bt5B/Image-from.png" alt="Project Banner">
     </a>
   <br />
 
@@ -35,7 +35,7 @@ This repository contains the code corresponding to an in-depth tutorial availabl
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
