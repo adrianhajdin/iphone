@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
-      <img src="https://github.com/JavaScript-Mastery-Pro/iphone-doc/assets/151519281/7096a00f-5d76-4a13-a0b9-63887ede2930" alt="Project Banner">
+      <img src="https://github.com/adrianhajdin/iphone/assets/151519281/7096a00f-5d76-4a13-a0b9-63887ede2930" alt="Project Banner">
     </a>
   <br />
 
