@@ -65,7 +65,7 @@ const HowItWorks = () => {
 
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
-                  <p className="hiw-text g_fadeIn">
+                  <p className="hiw-text g_fadeIn mb-5">
                     A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
                     <span className="text-white">
                       best graphic performance by far
